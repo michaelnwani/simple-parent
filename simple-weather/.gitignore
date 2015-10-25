@@ -1,0 +1,13 @@
+#Apple junk files
+[Tt]humbs.db
+*.DS_Store
+
+#Some extensions
+*.txt
+*.csv
+*.log
+*.class
+*.txt.swp
+*.bin
+*.ser
+*.jar
